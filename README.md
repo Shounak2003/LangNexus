@@ -1,6 +1,6 @@
 # 👋 LangNexus: Sign Translate!
 
-https://github.com/footcricket05/LangNexus/assets/93007427/a5cd56c1-04e5-4971-a858-a5177f2da827
+https://github.com/footcricket05/LangNexus/assets/93007427/9f5fbc09-eb0c-4a9d-96df-2b20d49c1b2b
 
 **Revolutionizing Sign Language Communication with Cutting-Edge Real-Time Translation Models.**
 
